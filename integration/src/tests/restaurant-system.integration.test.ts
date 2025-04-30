@@ -1,4 +1,4 @@
-import { describe, test, expect, beforeEach } from '@jest/globals';
+import { describe, test, expect, beforeEach } from 'vitest';
 import { RestaurantSystem } from '../RestaurantService';
 import { ProductCategory, OrderStatus } from '../types';
 
